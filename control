@@ -1,0 +1,9 @@
+Package: com.gilshahar7.cellulardatachangedaction
+Name: cellulardatachangedaction
+Depends: mobilesubstrate, libactivator
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An activator action tweak for cellular data state changes
+Maintainer: gilshahar7
+Author: gilshahar7
+Section: Tweaks
